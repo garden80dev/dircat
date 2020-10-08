@@ -21,5 +21,6 @@ func main() {
 		)
 	}
 
+	log.Printf("running on port %d...\n", cfg.Port)
 	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%d", cfg.Port), nil))
 }
