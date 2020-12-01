@@ -1,6 +1,6 @@
 /*
  * dircat - a small utility useful for exposing files to http requests.
- * Copyright (C) 2020  Auriga
+ * Copyright (C) 2020  Francesco Giardino
  *
  */
 
